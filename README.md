@@ -1,4 +1,3 @@
 NOI
 ===
-
-NOI竞赛代码
+Cui Chen's noi codes.
